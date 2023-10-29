@@ -1909,3 +1909,10 @@ img {
     opacity: 1 !important;
     transform: translateX(10px);
 }
+
+h4.chref {
+    cursor: pointer;
+}
+.card-resume .timeline-column .timeline-block h4.chref:hover {
+    color: #7c7c7c;
+}
